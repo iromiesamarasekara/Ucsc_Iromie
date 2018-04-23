@@ -1,0 +1,4 @@
+Management
+Applications Laboratory
+Programming in C
+Discrete Mathematics
